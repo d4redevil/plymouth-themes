@@ -5,7 +5,7 @@ Plymouth
 =
 Plymouth is graphical boot animation and logger.
 
-This can only work on linux. You can use this themes in your linux pc. To use these follow the instructions below. 
+This only works on linux. You can use this themes in your linux pc. To use these follow the instructions below. 
 
 -----
 How to use:
