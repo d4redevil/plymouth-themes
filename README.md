@@ -17,7 +17,6 @@ git clone https://github.com/kingness-zero/plymouth-themes.git
 cd plymouth-themes
 
 sudo cp -r themes/* /usr/share/plymouth/themes/
-
 ```
 
 Choose a theme.
