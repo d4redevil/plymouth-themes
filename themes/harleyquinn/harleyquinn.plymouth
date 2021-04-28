@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Default theme for Parrot OS
+Description=A theme that features the Parrot OS logo in a white spinning circle
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/harleyquinn
+ScriptFile=/usr/share/plymouth/themes/harleyquinn/harleyquinn.script
