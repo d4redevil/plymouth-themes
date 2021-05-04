@@ -60,7 +60,6 @@ Themes Available:
 
 * r
 
-<br />
 ```
 sudo plymouth-set-default-theme -R daredevil
 ```
