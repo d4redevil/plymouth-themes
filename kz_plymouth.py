@@ -20,7 +20,7 @@ if config == "install":
 try:
     while True:
         #List Of themes available as a dictionary with number as Key.
-        themeslist={"1":"godofwar","2":"harleyquinn", "3":"daredevil"}
+        themeslist={"1":"godofwar","2":"harleyquinn", "3":"daredevil","4":"lonely","5":"r"}
         print("""
 __________.__                               __  .__            ___________.__                                  
 \______   \  | ___.__. _____   ____  __ ___/  |_|  |__         \__    ___/|  |__   ____   _____   ____   ______
