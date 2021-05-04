@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Lonely
+Description=Lonely BootLoader animation 
+Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lonely
+ScriptFile=/usr/share/plymouth/themes/lonely/lonely.script
