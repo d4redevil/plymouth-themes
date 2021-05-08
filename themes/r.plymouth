@@ -1,9 +1,0 @@
-[Plymouth Theme]
-Name=R Letter
-Description=R Letter Bootloder
-Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/r
-ScriptFile=/usr/share/plymouth/themes/r/r.script
