@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Lighter
+Description=Lighting Up lighter
+Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lighter
+ScriptFile=/usr/share/plymouth/themes/lighter/lighter.script
