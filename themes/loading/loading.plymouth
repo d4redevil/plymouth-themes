@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Loading
+Description=Loading dot drops
+Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/loading
+ScriptFile=/usr/share/plymouth/themes/loading/loading.script

@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Fight Against Covid
+Description=Covid Awareness Bootloader
+Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/covid19
+ScriptFile=/usr/share/plymouth/themes/covid19/covid19.script
