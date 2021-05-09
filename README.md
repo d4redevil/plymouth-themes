@@ -49,6 +49,9 @@ sudo plymouth-set-default-theme -R (theme)
 -------
 Themes Available:
 =
+* batman
+
+* birthdayocto
 
 * godofwar
 
@@ -56,7 +59,15 @@ Themes Available:
 
 * daredevil
 
+* lighter
+
 * lonely
+
+* loading
+
+* covid19
+
+* ironman
 
 * r
 
