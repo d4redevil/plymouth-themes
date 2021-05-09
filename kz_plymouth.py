@@ -1,3 +1,20 @@
+#!/bin/python3
+
+# __________.__                               __  .__            ___________.__                                  
+# \______   \  | ___.__. _____   ____  __ ___/  |_|  |__         \__    ___/|  |__   ____   _____   ____   ______
+# |     ___/  |<   |  |/     \ /  _ \|  |  \   __\  |  \   ______ |    |   |  |  \_/ __ \ /     \_/ __ \ /  ___/
+# |    |   |  |_\___  |  Y Y  (  <_> )  |  /|  | |   Y  \ /_____/ |    |   |   Y  \  ___/|  Y Y  \  ___/ \___ \ 
+# |____|   |____/ ____|__|_|  /\____/|____/ |__| |___|  /         |____|   |___|  /\___  >__|_|  /\___  >____  >
+#             \/          \/                        \/                        \/     \/      \/     \/     \/ 
+# Github Page:https://github.com/d4redevil/plymouth-themes
+
+
+# I am D4redEvil
+
+# Github:https://github.com/d4redevil
+# instagram:https://instagram.com/x.x_daredevil_x.x
+
+
 import os
 import time
 import sys
@@ -20,7 +37,7 @@ if config == "install":
 try:
     while True:
         #List Of themes available as a dictionary with number as Key.
-        themeslist={"1":"godofwar","2":"harleyquinn", "3":"daredevil","4":"lonely","5":"r"}
+        themeslist={"1":"godofwar","2":"harleyquinn", "3":"daredevil","4":"lonely","5":"r","6":"loading","7":"ironman","8":"batman","9":"birthdayocto","10":"lighter","11":"Covid 19"}
         print("""
 __________.__                               __  .__            ___________.__                                  
 \______   \  | ___.__. _____   ____  __ ___/  |_|  |__         \__    ___/|  |__   ____   _____   ____   ______
