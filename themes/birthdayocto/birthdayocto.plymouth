@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Birthday Octopus
+Description=Octopus celebrating Birthday
+Comment=More themes on Github:https://github.com/d4redevil/plymouth-themes/
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/birthdayocto
+ScriptFile=/usr/share/plymouth/themes/birthdayocto/birthdayocto.script
