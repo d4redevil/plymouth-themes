@@ -14,7 +14,7 @@ How to Use:
 Follow these steps to install and run the sctipt.
 
 ```
-git clone https://github.com/kingness-zero/plymouth-themes.git
+git clone https://github.com/d4redevil/plymouth-themes.git
 
 cd plymouth-themes
 
@@ -34,7 +34,7 @@ How to Install Without Using kz_plymouth.py Python Script:
 =
 
 ```
-git clone https://github.com/kingness-zero/plymouth-themes.git
+git clone https://github.com/d4redevil/plymouth-themes.git
 
 cd plymouth-themes
 
